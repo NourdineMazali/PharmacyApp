@@ -1,0 +1,9 @@
+API/node_modules/*
+Frontend/node_modules/*
+Frontend/static/*
+Frontend/src/renderer/assets/*
+API/.idea/*
+Frontend/.idea/*
+Frontend/data/*
+Frontend/test/*
+.idea/*
