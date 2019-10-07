@@ -139,7 +139,7 @@
     "vue-template-compiler": "^2.4.2",
     "vuetable-2": "^1.7.5",
     "webpack": "^3.11.0",
-    "webpack-dev-server": "^2.7.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-hot-middleware": "^2.18.2",
     "webpack-merge": "^4.1.0"
   }
