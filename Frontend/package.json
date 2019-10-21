@@ -65,7 +65,7 @@
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
     "jquery-ui-dist": "^1.12.1",
-    "knex": "^0.14.6",
+    "knex": "^0.19.5",
     "mongoose": "^5.0.16",
     "nodemon": "^1.17.3",
     "signature_pad": "^2.3.2",
