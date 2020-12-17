@@ -93,7 +93,7 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.4",
     "datatables": "^1.10.13",
-    "datatables.net": "^1.10.16",
+    "datatables.net": "^1.10.22",
     "del": "^3.0.0",
     "devtron": "^1.4.0",
     "electron": "^1.8.6",
